@@ -7,11 +7,11 @@ Password: admin
 
 Librarian kimi:
 Username: librarian,
-password: librarian
+Password: librarian
 
 Database olaraq MySQL Database istifadə olunub.
 
-Sample datanı linkdən yükləyib databas'ə import edə bilərsiniz : https://drive.google.com/drive/folders/1tTCa2E5jF7mrV1iFIEqxw9kbGg6e-swb?usp=sharing
+UML diagrama baxa və Sample datanı yükləyib databas'ə import edə bilərsiniz : https://drive.google.com/drive/folders/1tTCa2E5jF7mrV1iFIEqxw9kbGg6e-swb?usp=sharing
 
 Qeyd-1: Frontend hissəsi internetdən götürülüb, müəyyən dəyişikliklər edilib: Rəng,logo və s.
 
